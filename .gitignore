@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# MATLAB autosave / intermediates
+*.asv
+*.m~
+
+# Python / NEURON
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+x86_64/
+arm64/
